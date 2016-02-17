@@ -1,0 +1,1005 @@
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "00o-OH-pCP"; */
+"00o-OH-pCP.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUITextField"; placeholder = "Confirmar Contraseña"; ObjectID = "0fQ-jd-7P1"; */
+"0fQ-jd-7P1.placeholder" = "Confirmar Contraseña";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "0mn-ll-mh4"; */
+"0mn-ll-mh4.text" = "Cause Name";
+
+/* Class = "IBUIButton"; normalTitle = "Siguiente"; ObjectID = "0pv-ZE-AXh"; */
+"0pv-ZE-AXh.normalTitle" = "Siguiente";
+
+/* Class = "IBUILabel"; text = "30%"; ObjectID = "0qv-iW-9Tz"; */
+"0qv-iW-9Tz.text" = "30%";
+
+/* Class = "IBUILabel"; text = "Frecuencia:"; ObjectID = "175-ae-Tz2"; */
+"175-ae-Tz2.text" = "Frecuencia:";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "1XU-en-ols"; */
+"1XU-en-ols.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "1nw-Lj-ata"; */
+"1nw-Lj-ata.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "1oF-sa-8O3"; */
+"1oF-sa-8O3.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "1pB-mr-cPL"; */
+"1pB-mr-cPL.title" = "Lean Works Group";
+
+/* Class = "IBUITextField"; placeholder = "Documento a generar"; ObjectID = "2Kv-9d-UJ0"; */
+"2Kv-9d-UJ0.placeholder" = "Documento a generar";
+
+/* Class = "IBUIButton"; normalTitle = "Regresar punto de origen"; ObjectID = "2Mi-eG-6Kf"; */
+"2Mi-eG-6Kf.normalTitle" = "Regresar punto de origen";
+
+/* Class = "IBUILabel"; text = "¿Por qué la falta de capacitación  provoca en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?"; ObjectID = "2Mv-8m-jag"; */
+"2Mv-8m-jag.text" = "¿Por qué la falta de capacitación  provoca en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?";
+
+/* Class = "IBUILabel"; text = "How (¿Cómo?)*"; ObjectID = "2vX-qM-7Hf"; */
+"2vX-qM-7Hf.text" = "How (¿Cómo?)*";
+
+/* Class = "IBUIButton"; normalTitle = "Continuar"; ObjectID = "37Q-et-pzT"; */
+"37Q-et-pzT.normalTitle" = "Continuar";
+
+/* Class = "IBUILabel"; text = "Acción / contramedida:"; ObjectID = "3OM-vT-Fdy"; */
+"3OM-vT-Fdy.text" = "Acción / contramedida:";
+
+/* Class = "IBUILabel"; text = "40%"; ObjectID = "3rA-re-QfZ"; */
+"3rA-re-QfZ.text" = "40%";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "40k-l3-jji"; */
+"40k-l3-jji.text" = "Label";
+
+/* Class = "IBUIButton"; normalTitle = "Usuario nuevo"; ObjectID = "4Kc-xa-l62"; */
+"4Kc-xa-l62.normalTitle" = "Usuario nuevo";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "4M2-V4-jBq"; */
+"4M2-V4-jBq.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "4SX-xS-9OX"; */
+"4SX-xS-9OX.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "4ag-0s-cF5"; */
+"4ag-0s-cF5.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "inicio:"; ObjectID = "4ee-hm-IhX"; */
+"4ee-hm-IhX.text" = "inicio:";
+
+/* Class = "IBUIButton"; normalTitle = "Profundizar Análisis"; ObjectID = "4gG-8C-WcW"; */
+"4gG-8C-WcW.normalTitle" = "Profundizar Análisis";
+
+/* Class = "IBUILabel"; text = "Ishikawa"; ObjectID = "4mA-m5-P0N"; */
+"4mA-m5-P0N.text" = "Ishikawa";
+
+/* Class = "IBUIButton"; normalTitle = "Siguiente"; ObjectID = "4u1-Fv-bBy"; */
+"4u1-Fv-bBy.normalTitle" = "Siguiente";
+
+/* Class = "IBUILabel"; text = "Fecha plan fin:"; ObjectID = "4uh-Bk-ewj"; */
+"4uh-Bk-ewj.text" = "Fecha plan fin:";
+
+/* Class = "IBUILabel"; text = "¿Cuál es el principal problema que se le presenta?"; ObjectID = "51T-hG-6Lp"; */
+"51T-hG-6Lp.text" = "¿Cuál es el principal problema que se le presenta?";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "56K-AO-Epo"; */
+"56K-AO-Epo.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Fecha plan inicio:"; ObjectID = "6Ut-h0-VyW"; */
+"6Ut-h0-VyW.text" = "Fecha plan inicio:";
+
+/* Class = "IBUILabel"; text = "Registro "; ObjectID = "6p3-PV-R2F"; */
+"6p3-PV-R2F.text" = "Registro ";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "6q2-Kg-9YE"; */
+"6q2-Kg-9YE.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Actividades a realizar:"; ObjectID = "6vZ-Ot-cml"; */
+"6vZ-Ot-cml.text" = "Actividades a realizar:";
+
+/* Class = "IBUIButton"; normalTitle = "Continuar"; ObjectID = "74N-xu-owh"; */
+"74N-xu-owh.normalTitle" = "Continuar";
+
+/* Class = "IBUITextField"; placeholder = "Respuesta ..."; ObjectID = "7GW-Va-ejI"; */
+"7GW-Va-ejI.placeholder" = "Respuesta ...";
+
+/* Class = "IBUILabel"; text = "Date Start Realized"; ObjectID = "7Jv-2c-ap7"; */
+"7Jv-2c-ap7.text" = "Date Start Realized";
+
+/* Class = "IBUILabel"; text = "Flujos Pendientes"; ObjectID = "7Py-Nt-JT4"; */
+"7Py-Nt-JT4.text" = "Flujos Pendientes";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "7iu-TD-Z0F"; */
+"7iu-TD-Z0F.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Responsable:"; ObjectID = "87x-ZB-Yph"; */
+"87x-ZB-Yph.text" = "Responsable:";
+
+/* Class = "IBUITextField"; placeholder = "Correo"; ObjectID = "8Lj-4v-syK"; */
+"8Lj-4v-syK.placeholder" = "Correo";
+
+/* Class = "IBUILabel"; text = "Documento a generar:"; ObjectID = "8Sj-o3-uYa"; */
+"8Sj-o3-uYa.text" = "Documento a generar:";
+
+/* Class = "IBUILabel"; text = "Causa:"; ObjectID = "8Zg-od-zhv"; */
+"8Zg-od-zhv.text" = "Causa:";
+
+/* Class = "IBUILabel"; text = "Fecha inicial:"; ObjectID = "8ub-wN-jaI"; */
+"8ub-wN-jaI.text" = "Fecha inicial:";
+
+/* Class = "IBUITextField"; placeholder = "Contraseña"; ObjectID = "9F9-GI-UfQ"; */
+"9F9-GI-UfQ.placeholder" = "Contraseña";
+
+/* Class = "IBUILabel"; text = "Fecha plan fin:"; ObjectID = "9HP-FA-we7"; */
+"9HP-FA-we7.text" = "Fecha plan fin:";
+
+/* Class = "IBUILabel"; text = "Seleccione como desea medir sus causas principales (factores) del problema (Factores):"; ObjectID = "9J4-FZ-4Ju"; */
+"9J4-FZ-4Ju.text" = "Seleccione como desea medir sus causas principales (factores) del problema (Factores):";
+
+/* Class = "IBUILabel"; text = "Documento a generar:"; ObjectID = "9a0-qc-MWD"; */
+"9a0-qc-MWD.text" = "Documento a generar:";
+
+/* Class = "IBUILabel"; text = "Fecha realizado"; ObjectID = "9da-Wh-STV"; */
+"9da-Wh-STV.text" = "Fecha realizado";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "9ov-hf-zsP"; */
+"9ov-hf-zsP.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "inicio:"; ObjectID = "9yS-eA-pjQ"; */
+"9yS-eA-pjQ.text" = "inicio:";
+
+/* Class = "IBUILabel"; text = "999999"; ObjectID = "A0t-rx-dND"; */
+"A0t-rx-dND.text" = "999999";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "A9u-LF-sZT"; */
+"A9u-LF-sZT.title" = "Lean Works Group";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "AA2-Om-luP"; */
+"AA2-Om-luP.normalTitle" = "+";
+
+/* Class = "IBUITextField"; placeholder = "Usuario "; ObjectID = "ADA-pO-8Gm"; */
+"ADA-pO-8Gm.placeholder" = "Usuario ";
+
+/* Class = "IBUILabel"; text = "10%"; ObjectID = "AMk-8H-oEe"; */
+"AMk-8H-oEe.text" = "10%";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "BAU-Kh-aLR"; */
+"BAU-Kh-aLR.normalTitle" = "Guardar";
+
+/* Class = "IBUILabel"; text = "90%"; ObjectID = "BBa-r5-hcy"; */
+"BBa-r5-hcy.text" = "90%";
+
+/* Class = "IBUITextField"; placeholder = "Where (¿Donde?)"; ObjectID = "BFr-DL-h0v"; */
+"BFr-DL-h0v.placeholder" = "Where (¿Donde?)";
+
+/* Class = "IBUILabel"; text = "Document Modificated"; ObjectID = "BJ1-md-nZK"; */
+"BJ1-md-nZK.text" = "Document Modificated";
+
+/* Class = "IBUITextField"; placeholder = "Describa su principal problema"; ObjectID = "BJd-Km-3XG"; */
+"BJd-Km-3XG.placeholder" = "Describa su principal problema";
+
+/* Class = "IBUILabel"; text = "Fecha realizado"; ObjectID = "BVB-uh-ME9"; */
+"BVB-uh-ME9.text" = "Fecha realizado";
+
+/* Class = "IBUILabel"; text = "Pareto"; ObjectID = "BYu-iT-A5T"; */
+"BYu-iT-A5T.text" = "Pareto";
+
+/* Class = "IBUITextField"; placeholder = "Documento a modificar"; ObjectID = "CSN-as-9Ds"; */
+"CSN-as-9Ds.placeholder" = "Documento a modificar";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "CdA-G0-fLU"; */
+"CdA-G0-fLU.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Actividad:"; ObjectID = "Cdu-Z1-XJq"; */
+"Cdu-Z1-XJq.text" = "Actividad:";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "Cmc-e0-2qI"; */
+"Cmc-e0-2qI.normalTitle" = "Guardar";
+
+/* Class = "IBUILabel"; text = "Acción / contramedida:"; ObjectID = "CsS-5y-w9c"; */
+"CsS-5y-w9c.text" = "Acción / contramedida:";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "Ct2-sy-RWk"; */
+"Ct2-sy-RWk.title" = "Lean Works Group";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "D1C-R4-N0F"; */
+"D1C-R4-N0F.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "¿Por qué la falta de capacitación  provoca en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?"; ObjectID = "DQE-J4-htW"; */
+"DQE-J4-htW.text" = "¿Por qué la falta de capacitación  provoca en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "DSg-6A-jOh"; */
+"DSg-6A-jOh.text" = "Title";
+
+/* Class = "IBUITextField"; placeholder = "Acción / contramedida"; ObjectID = "DTx-jH-eWT"; */
+"DTx-jH-eWT.placeholder" = "Acción / contramedida";
+
+/* Class = "IBUILabel"; text = "Fecha plan inicio:"; ObjectID = "E8q-LR-LZK"; */
+"E8q-LR-LZK.text" = "Fecha plan inicio:";
+
+/* Class = "IBUILabel"; text = "Análisis de fallas"; ObjectID = "EZf-Fa-Myy"; */
+"EZf-Fa-Myy.text" = "Análisis de fallas";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "Esq-5E-7Mv"; */
+"Esq-5E-7Mv.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "Fii-Ny-68L"; */
+"Fii-Ny-68L.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "¿Por qué la falta de capacitación  provoca en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?"; ObjectID = "FtZ-l2-vOm"; */
+"FtZ-l2-vOm.text" = "¿Por qué la falta de capacitación  provoca en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?";
+
+/* Class = "IBUILabel"; text = "dd/MM/yyyy HH:MM"; ObjectID = "FzO-QC-Ys2"; */
+"FzO-QC-Ys2.text" = "dd/MM/yyyy HH:MM";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "G1S-9B-wLK"; */
+"G1S-9B-wLK.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "dd/MM/yyyy hh:mm"; ObjectID = "GEe-Ma-Fn3"; */
+"GEe-Ma-Fn3.text" = "dd/MM/yyyy hh:mm";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "GM0-sf-vad"; */
+"GM0-sf-vad.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "GZO-1z-htS"; */
+"GZO-1z-htS.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "Gig-fy-NtF"; */
+"Gig-fy-NtF.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Causa:"; ObjectID = "GoY-Nh-mz3"; */
+"GoY-Nh-mz3.text" = "Causa:";
+
+/* Class = "IBUILabel"; text = "Why:"; ObjectID = "GrI-z7-PHq"; */
+"GrI-z7-PHq.text" = "Why:";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "GtK-E9-urH"; */
+"GtK-E9-urH.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Completar las 5w + 2h para las causa principal"; ObjectID = "GtT-bf-SgK"; */
+"GtT-bf-SgK.text" = "Completar las 5w + 2h para las causa principal";
+
+/* Class = "IBUITextField"; placeholder = "Why (¿Por qué?)"; ObjectID = "H9a-KD-ktw"; */
+"H9a-KD-ktw.placeholder" = "Why (¿Por qué?)";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "HVq-Rf-RpI"; */
+"HVq-Rf-RpI.title" = "Atras";
+
+/* Class = "IBUITextField"; placeholder = "How much (¿Cuánto?)"; ObjectID = "HWi-6K-0an"; */
+"HWi-6K-0an.placeholder" = "How much (¿Cuánto?)";
+
+/* Class = "IBUILabel"; text = "99%"; ObjectID = "HrU-hB-Ftk"; */
+"HrU-hB-Ftk.text" = "99%";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancelar"; ObjectID = "I5v-2O-cvp"; */
+"I5v-2O-cvp.title" = "Cancelar";
+
+/* Class = "IBUILabel"; text = "Seleccione la causa principal para el ordenamiento de los factores:"; ObjectID = "ICm-wc-T9j"; */
+"ICm-wc-T9j.text" = "Seleccione la causa principal para el ordenamiento de los factores:";
+
+/* Class = "IBUITextField"; placeholder = "Responsable"; ObjectID = "IPp-hZ-tKz"; */
+"IPp-hZ-tKz.placeholder" = "Responsable";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "IRe-9b-9IF"; */
+"IRe-9b-9IF.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Pareto"; ObjectID = "Igz-vK-o6O"; */
+"Igz-vK-o6O.text" = "Pareto";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "Ihh-Q3-2Ns"; */
+"Ihh-Q3-2Ns.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "Iqz-cc-eVj"; */
+"Iqz-cc-eVj.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Actividades a realizar:"; ObjectID = "IvM-e0-1pm"; */
+"IvM-e0-1pm.text" = "Actividades a realizar:";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "J6g-og-3lN"; */
+"J6g-og-3lN.text" = "Label";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "JHU-0T-owu"; */
+"JHU-0T-owu.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "JYT-V3-vyO"; */
+"JYT-V3-vyO.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "JdL-uJ-hGv"; */
+"JdL-uJ-hGv.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUITextField"; placeholder = "When (¿Cuándo?)"; ObjectID = "JpV-ML-OT4"; */
+"JpV-ML-OT4.placeholder" = "When (¿Cuándo?)";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "JxD-W0-RdS"; */
+"JxD-W0-RdS.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "JxF-3k-O6d"; */
+"JxF-3k-O6d.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Fecha plan inicio:"; ObjectID = "K5W-RS-mcg"; */
+"K5W-RS-mcg.text" = "Fecha plan inicio:";
+
+/* Class = "IBUIButton"; normalTitle = "Ingresar sin usuario"; ObjectID = "K89-Ex-rZ5"; */
+"K89-Ex-rZ5.normalTitle" = "Ingresar sin usuario";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "KAh-jF-seA"; */
+"KAh-jF-seA.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "KKb-JK-J74"; */
+"KKb-JK-J74.text" = "Title";
+
+/* Class = "IBUILabel"; text = "Fecha plan fin:"; ObjectID = "KjI-Cc-y0w"; */
+"KjI-Cc-y0w.text" = "Fecha plan fin:";
+
+/* Class = "IBUIBarButtonItem"; title = "Cerrar"; ObjectID = "Kqz-MV-VVO"; */
+"Kqz-MV-VVO.title" = "Cerrar";
+
+/* Class = "IBUITextField"; placeholder = "Nombre"; ObjectID = "LHM-ia-a7M"; */
+"LHM-ia-a7M.placeholder" = "Nombre";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "LRe-D2-jbW"; */
+"LRe-D2-jbW.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Pareto"; ObjectID = "Lg6-jA-6o2"; */
+"Lg6-jA-6o2.text" = "Pareto";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "Lxw-nF-9GU"; */
+"Lxw-nF-9GU.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "MJG-gX-6w2"; */
+"MJG-gX-6w2.text" = "Cause Name";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "MUE-0m-zIE"; */
+"MUE-0m-zIE.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "Mdh-SS-16a"; */
+"Mdh-SS-16a.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "MhW-zy-QIg"; */
+"MhW-zy-QIg.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Actividad"; ObjectID = "Mp2-rh-lhh"; */
+"Mp2-rh-lhh.text" = "Actividad";
+
+/* Class = "IBUILabel"; text = "Why"; ObjectID = "Mrn-ju-g33"; */
+"Mrn-ju-g33.text" = "Why";
+
+/* Class = "IBUILabel"; text = "80%"; ObjectID = "N17-vV-uEU"; */
+"N17-vV-uEU.text" = "80%";
+
+/* Class = "IBUILabel"; text = "Documento modificado:"; ObjectID = "N8K-9N-9WW"; */
+"N8K-9N-9WW.text" = "Documento modificado:";
+
+/* Class = "IBUIButton"; normalTitle = "Falta personal capacitado"; ObjectID = "Nai-uZ-1YI"; */
+"Nai-uZ-1YI.normalTitle" = "Falta personal capacitado";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "Oaw-L2-zhp"; */
+"Oaw-L2-zhp.title" = "Lean Works Group";
+
+/* Class = "IBUIBarButtonItem"; title = "Cerrar"; ObjectID = "ObK-1a-s98"; */
+"ObK-1a-s98.title" = "Cerrar";
+
+/* Class = "IBUILabel"; text = "dd/mm/yyyy hh:mm"; ObjectID = "Od9-wH-3dK"; */
+"Od9-wH-3dK.text" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUILabel"; text = "Fecha plan inicio:"; ObjectID = "OfJ-Vw-EuB"; */
+"OfJ-Vw-EuB.text" = "Fecha plan inicio:";
+
+/* Class = "IBUILabel"; text = "Responsible"; ObjectID = "PCS-oi-FcW"; */
+"PCS-oi-FcW.text" = "Responsible";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "PMz-bi-bbw"; */
+"PMz-bi-bbw.title" = "Lean Works Group";
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "Pad-un-gbG"; */
+"Pad-un-gbG.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "Pka-ER-Fre"; */
+"Pka-ER-Fre.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Fecha realizado fin:"; ObjectID = "QX3-8m-qLG"; */
+"QX3-8m-qLG.text" = "Fecha realizado fin:";
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "QlK-KO-mbV"; */
+"QlK-KO-mbV.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUILabel"; text = "Agregar causas terciarias a: Causa Secundaria"; ObjectID = "Rae-Kq-Cub"; */
+"Rae-Kq-Cub.text" = "Agregar causas terciarias a: Causa Secundaria";
+
+/* Class = "IBUILabel"; text = "Responsable:"; ObjectID = "RbY-XI-Mey"; */
+"RbY-XI-Mey.text" = "Responsable:";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "RoW-Nn-is5"; */
+"RoW-Nn-is5.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Where (¿Donde?)*"; ObjectID = "RpM-te-uj2"; */
+"RpM-te-uj2.text" = "Where (¿Donde?)*";
+
+/* Class = "IBUILabel"; text = "dd/mm/yyyy hh:mm"; ObjectID = "RpR-dd-qKd"; */
+"RpR-dd-qKd.text" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUITextField"; placeholder = "Acción / contramedida"; ObjectID = "RsZ-4Q-vG6"; */
+"RsZ-4Q-vG6.placeholder" = "Acción / contramedida";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "S8M-Mb-ExQ"; */
+"S8M-Mb-ExQ.title" = "Lean Works Group";
+
+/* Class = "IBUITextField"; placeholder = "Respuesta ..."; ObjectID = "SAZ-rf-Uo8"; */
+"SAZ-rf-Uo8.placeholder" = "Respuesta ...";
+
+/* Class = "IBUILabel"; text = "Acción / contramedida:"; ObjectID = "ScY-SW-M5H"; */
+"ScY-SW-M5H.text" = "Acción / contramedida:";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "Snd-ju-EIs"; */
+"Snd-ju-EIs.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Why (¿Por qué?)"; ObjectID = "SpJ-s8-SIZ"; */
+"SpJ-s8-SIZ.text" = "Why (¿Por qué?)";
+
+/* Class = "IBUILabel"; text = "dd/mm/yyyy hh:mm"; ObjectID = "TBb-Zz-QJg"; */
+"TBb-Zz-QJg.text" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUILabel"; text = "Documento generado:"; ObjectID = "TPo-d6-l4p"; */
+"TPo-d6-l4p.text" = "Documento generado:";
+
+/* Class = "IBUILabel"; text = "When (¿Cuándo?)*"; ObjectID = "TbY-ns-Z2M"; */
+"TbY-ns-Z2M.text" = "When (¿Cuándo?)*";
+
+/* Class = "IBUILabel"; text = "Documento generado:"; ObjectID = "Tmp-Nk-tXm"; */
+"Tmp-Nk-tXm.text" = "Documento generado:";
+
+/* Class = "IBUILabel"; text = "Documento modificado:"; ObjectID = "UAJ-wt-2hN"; */
+"UAJ-wt-2hN.text" = "Documento modificado:";
+
+/* Class = "IBUILabel"; text = "Actividad"; ObjectID = "UFx-0q-oqp"; */
+"UFx-0q-oqp.text" = "Actividad";
+
+/* Class = "IBUILabel"; text = "contramedida"; ObjectID = "UKi-WD-Msk"; */
+"UKi-WD-Msk.text" = "contramedida";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "Unx-eB-ElD"; */
+"Unx-eB-ElD.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Enumerar 4 principales causas (factores) y en la opción de otros agrupar las causas menores"; ObjectID = "Ur5-Hp-JbP"; */
+"Ur5-Hp-JbP.text" = "Enumerar 4 principales causas (factores) y en la opción de otros agrupar las causas menores";
+
+/* Class = "IBUILabel"; text = "Fecha realizado fin:"; ObjectID = "UvB-4P-u9m"; */
+"UvB-4P-u9m.text" = "Fecha realizado fin:";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "VSb-0X-4G2"; */
+"VSb-0X-4G2.title" = "Lean Works Group";
+
+/* Class = "IBUIButton"; normalTitle = "+"; ObjectID = "Vml-ga-Lug"; */
+"Vml-ga-Lug.normalTitle" = "+";
+
+/* Class = "IBUILabel"; text = "Ishikawa"; ObjectID = "Vz4-dd-Kst"; */
+"Vz4-dd-Kst.text" = "Ishikawa";
+
+/* Class = "IBUILabel"; text = "What (¿Qué?)*"; ObjectID = "VzO-Zu-3wk"; */
+"VzO-Zu-3wk.text" = "What (¿Qué?)*";
+
+/* Class = "IBUILabel"; text = "Why:"; ObjectID = "W8y-AT-yi9"; */
+"W8y-AT-yi9.text" = "Why:";
+
+/* Class = "IBUITextField"; placeholder = "What (¿Qué?)"; ObjectID = "W9Z-aB-VzA"; */
+"W9Z-aB-VzA.placeholder" = "What (¿Qué?)";
+
+/* Class = "IBUILabel"; text = "Document Generated"; ObjectID = "WHh-Uv-BOn"; */
+"WHh-Uv-BOn.text" = "Document Generated";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "WUW-2G-JEz"; */
+"WUW-2G-JEz.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Responsable:"; ObjectID = "WVr-UH-Pk9"; */
+"WVr-UH-Pk9.text" = "Responsable:";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "Wep-gl-8At"; */
+"Wep-gl-8At.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "60%"; ObjectID = "Wgk-sf-vc7"; */
+"Wgk-sf-vc7.text" = "60%";
+
+/* Class = "IBUILabel"; text = "dd/MM/yyyy hh:mm"; ObjectID = "WuN-xq-D9p"; */
+"WuN-xq-D9p.text" = "dd/MM/yyyy hh:mm";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "XPV-nD-Nvu"; */
+"XPV-nD-Nvu.title" = "Lean Works Group";
+
+/* Class = "IBUIButton"; normalTitle = "Agregar"; ObjectID = "XYg-5J-Rfx"; */
+"XYg-5J-Rfx.normalTitle" = "Agregar";
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "Xkl-fe-HhR"; */
+"Xkl-fe-HhR.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUILabel"; text = "Seleccione 5 causas potenciales principales más importantes (causas raices) que tienen incidencia significativa sobre el problema:"; ObjectID = "XqN-Vv-LQ7"; */
+"XqN-Vv-LQ7.text" = "Seleccione 5 causas potenciales principales más importantes (causas raices) que tienen incidencia significativa sobre el problema:";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "Xqg-Ye-Es4"; */
+"Xqg-Ye-Es4.title" = "Lean Works Group";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "Y2r-H8-s3d"; */
+"Y2r-H8-s3d.normalTitle" = "Guardar";
+
+/* Class = "IBUIBarButtonItem"; title = "Guardar Análisis de Fallas"; ObjectID = "YDY-sa-Yup"; */
+"YDY-sa-Yup.title" = "Guardar Análisis de Fallas";
+
+/* Class = "IBUILabel"; text = "$999999"; ObjectID = "YNQ-ag-Utl"; */
+"YNQ-ag-Utl.text" = "$999999";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "YaE-5J-P8n"; */
+"YaE-5J-P8n.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "Ywu-88-N3q"; */
+"Ywu-88-N3q.text" = "Cause Name";
+
+/* Class = "IBUILabel"; text = "Documento a modificar:"; ObjectID = "ZDT-f3-BBA"; */
+"ZDT-f3-BBA.text" = "Documento a modificar:";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "ZKm-s5-k5z"; */
+"ZKm-s5-k5z.text" = "Label-";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "ZQ2-02-5vH"; */
+"ZQ2-02-5vH.title" = "Atras";
+
+/* Class = "IBUITextField"; placeholder = "Actividades a realizar"; ObjectID = "Zdc-m3-jIx"; */
+"Zdc-m3-jIx.placeholder" = "Actividades a realizar";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "ZvO-gw-C5P"; */
+"ZvO-gw-C5P.title" = "Lean Works Group";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "aF9-u0-dCF"; */
+"aF9-u0-dCF.title" = "Atras";
+
+/* Class = "IBUIButton"; normalTitle = "Agregar"; ObjectID = "aLA-Nq-ooB"; */
+"aLA-Nq-ooB.normalTitle" = "Agregar";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "aT8-EF-XaY"; */
+"aT8-EF-XaY.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "abu-HI-cOp"; */
+"abu-HI-cOp.text" = "Label-";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "abu-fS-0zX"; */
+"abu-fS-0zX.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Responsable:"; ObjectID = "ahh-Qr-n7J"; */
+"ahh-Qr-n7J.text" = "Responsable:";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancelar"; ObjectID = "b9T-fd-xen"; */
+"b9T-fd-xen.title" = "Cancelar";
+
+/* Class = "IBUILabel"; text = "Why"; ObjectID = "bHU-1p-aLd"; */
+"bHU-1p-aLd.text" = "Why";
+
+/* Class = "IBUITextField"; placeholder = "How (¿Cómo?)"; ObjectID = "bQI-ol-KwQ"; */
+"bQI-ol-KwQ.placeholder" = "How (¿Cómo?)";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "bVu-kj-aiW"; */
+"bVu-kj-aiW.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "bXw-QR-kRi"; */
+"bXw-QR-kRi.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Ishikawa"; ObjectID = "baz-7O-9iM"; */
+"baz-7O-9iM.text" = "Ishikawa";
+
+/* Class = "IBUILabel"; text = "Responsible"; ObjectID = "be5-88-n5Z"; */
+"be5-88-n5Z.text" = "Responsible";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "bfI-4K-Xsz"; */
+"bfI-4K-Xsz.title" = "Lean Works Group";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "bhH-9t-sqZ"; */
+"bhH-9t-sqZ.normalTitle" = "Guardar";
+
+/* Class = "IBUIButton"; normalTitle = "Falta personal capacitado"; ObjectID = "bxj-Ah-r3e"; */
+"bxj-Ah-r3e.normalTitle" = "Falta personal capacitado";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "c8H-FD-Wx5"; */
+"c8H-FD-Wx5.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Termino"; ObjectID = "c8Q-fZ-5Qc"; */
+"c8Q-fZ-5Qc.text" = "Termino";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "cFg-wS-h4D"; */
+"cFg-wS-h4D.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Title"; ObjectID = "cNk-LO-c62"; */
+"cNk-LO-c62.text" = "Title";
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "cSp-0P-YTe"; */
+"cSp-0P-YTe.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUILabel"; text = "Date Start Plan"; ObjectID = "cbz-VJ-Ri8"; */
+"cbz-VJ-Ri8.text" = "Date Start Plan";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "ccR-KA-CCJ"; */
+"ccR-KA-CCJ.normalTitle" = "Guardar";
+
+/* Class = "IBUILabel"; text = "How much (¿Cuánto?)*"; ObjectID = "dCT-wN-hRs"; */
+"dCT-wN-hRs.text" = "How much (¿Cuánto?)*";
+
+/* Class = "IBUIButton"; normalTitle = "Regresar punto de origen"; ObjectID = "dPp-6M-DQz"; */
+"dPp-6M-DQz.normalTitle" = "Regresar punto de origen";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "dTD-E0-mfD"; */
+"dTD-E0-mfD.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Fecha realizado"; ObjectID = "dU2-3i-Zqv"; */
+"dU2-3i-Zqv.text" = "Fecha realizado";
+
+/* Class = "IBUILabel"; text = "Ishikawa"; ObjectID = "dVE-XR-SSX"; */
+"dVE-XR-SSX.text" = "Ishikawa";
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "dVc-Dq-Hot"; */
+"dVc-Dq-Hot.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUITextField"; placeholder = "Documento a modificar"; ObjectID = "dWm-O2-nDc"; */
+"dWm-O2-nDc.placeholder" = "Documento a modificar";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "ddA-VN-H2O"; */
+"ddA-VN-H2O.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "ddj-8p-pun"; */
+"ddj-8p-pun.title" = "Atras";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "dkS-lf-UMm"; */
+"dkS-lf-UMm.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Acción / contramedida:"; ObjectID = "dvG-b9-egT"; */
+"dvG-b9-egT.text" = "Acción / contramedida:";
+
+/* Class = "IBUITextField"; placeholder = "Respuesta ..."; ObjectID = "e6G-tj-7GT"; */
+"e6G-tj-7GT.placeholder" = "Respuesta ...";
+
+/* Class = "IBUILabel"; text = "70%"; ObjectID = "eHi-DB-IgS"; */
+"eHi-DB-IgS.text" = "70%";
+
+/* Class = "IBUILabel"; text = "Sector Name"; ObjectID = "eIC-m6-1mD"; */
+"eIC-m6-1mD.text" = "Sector Name";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "eL8-tR-pjE"; */
+"eL8-tR-pjE.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Pareto"; ObjectID = "eLH-9A-cKE"; */
+"eLH-9A-cKE.text" = "Pareto";
+
+/* Class = "IBUIButton"; normalTitle = "Iniciar sesión"; ObjectID = "eUe-Qk-RA1"; */
+"eUe-Qk-RA1.normalTitle" = "Iniciar sesión";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "eWA-Kn-uy0"; */
+"eWA-Kn-uy0.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Gráfica Pareto"; ObjectID = "ehq-wN-e7Z"; */
+"ehq-wN-e7Z.text" = "Gráfica Pareto";
+
+/* Class = "IBUILabel"; text = "Pareto"; ObjectID = "erq-ON-EgZ"; */
+"erq-ON-EgZ.text" = "Pareto";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "euz-aR-mnq"; */
+"euz-aR-mnq.title" = "Atras";
+
+/* Class = "IBUITextField"; placeholder = "Causa principal"; ObjectID = "ezh-cf-xVL"; */
+"ezh-cf-xVL.placeholder" = "Causa principal";
+
+/* Class = "IBUILabel"; text = "Priorice las causas principales potenciales (causas raices) que tienen incidencia significativa sobre el problema:"; ObjectID = "f8N-kU-PtC"; */
+"f8N-kU-PtC.text" = "Priorice las causas principales potenciales (causas raices) que tienen incidencia significativa sobre el problema:";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "fEz-k3-iKs"; */
+"fEz-k3-iKs.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Why:"; ObjectID = "fYS-q3-12P"; */
+"fYS-q3-12P.text" = "Why:";
+
+/* Class = "IBUILabel"; text = "Actividad:"; ObjectID = "feD-yG-gw3"; */
+"feD-yG-gw3.text" = "Actividad:";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "fwU-zJ-hQa"; */
+"fwU-zJ-hQa.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "g9j-eU-uhd"; */
+"g9j-eU-uhd.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "gEG-PO-gFN"; */
+"gEG-PO-gFN.text" = "Cause Name";
+
+/* Class = "IBUILabel"; text = "¿Cuáles considera las causas secundarias de su problema?"; ObjectID = "gEa-xc-9Eg"; */
+"gEa-xc-9Eg.text" = "¿Cuáles considera las causas secundarias de su problema?";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "gNs-zF-ba3"; */
+"gNs-zF-ba3.text" = "Cause Name";
+
+/* Class = "IBUITextField"; placeholder = "Documento a generar"; ObjectID = "gme-ld-Vof"; */
+"gme-ld-Vof.placeholder" = "Documento a generar";
+
+/* Class = "IBUITextField"; placeholder = "Nombre de Usuario"; ObjectID = "goE-Ls-PyC"; */
+"goE-Ls-PyC.placeholder" = "Nombre de Usuario";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "gwG-PN-ajO"; */
+"gwG-PN-ajO.title" = "Atras";
+
+/* Class = "IBUIButton"; normalTitle = "Ver problema"; ObjectID = "hBd-qt-imQ"; */
+"hBd-qt-imQ.normalTitle" = "Ver problema";
+
+/* Class = "IBUILabel"; text = "Document Modificated"; ObjectID = "hMB-zA-Nrc"; */
+"hMB-zA-Nrc.text" = "Document Modificated";
+
+/* Class = "IBUIButton"; normalTitle = "Profundizar Análisis"; ObjectID = "hOq-kt-bAO"; */
+"hOq-kt-bAO.normalTitle" = "Profundizar Análisis";
+
+/* Class = "IBUITextField"; placeholder = "Responsable"; ObjectID = "hZ8-Ge-WWg"; */
+"hZ8-Ge-WWg.placeholder" = "Responsable";
+
+/* Class = "IBUILabel"; text = "Seleccione la causa que desea en el análisis de fallas:"; ObjectID = "hZU-dx-QVZ"; */
+"hZU-dx-QVZ.text" = "Seleccione la causa que desea en el análisis de fallas:";
+
+/* Class = "IBUILabel"; text = "Who (¿Quién?)*"; ObjectID = "haq-d7-60y"; */
+"haq-d7-60y.text" = "Who (¿Quién?)*";
+
+/* Class = "IBUILabel"; text = "Análisis de Fallas"; ObjectID = "hvc-Yf-qbY"; */
+"hvc-Yf-qbY.text" = "Análisis de Fallas";
+
+/* Class = "IBUILabel"; text = "Ishikawa"; ObjectID = "iHf-PZ-X4f"; */
+"iHf-PZ-X4f.text" = "Ishikawa";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "iJf-hD-UQ6"; */
+"iJf-hD-UQ6.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "fin:"; ObjectID = "ikr-NB-6gd"; */
+"ikr-NB-6gd.text" = "fin:";
+
+/* Class = "IBUILabel"; text = "100%"; ObjectID = "ioY-ll-1e9"; */
+"ioY-ll-1e9.text" = "100%";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "ipg-PL-4HE"; */
+"ipg-PL-4HE.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "izt-WA-WBD"; */
+"izt-WA-WBD.text" = "Cause Name";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "j01-p5-Ri2"; */
+"j01-p5-Ri2.text" = "Cause Name";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "j49-pA-4JC"; */
+"j49-pA-4JC.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Why:"; ObjectID = "j7R-8x-jI1"; */
+"j7R-8x-jI1.text" = "Why:";
+
+/* Class = "IBUILabel"; text = "dd/mm/yyyy hh:mm"; ObjectID = "jL5-No-2Zd"; */
+"jL5-No-2Zd.text" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUITextField"; placeholder = "Who (¿Quién?)"; ObjectID = "jPt-uQ-KkN"; */
+"jPt-uQ-KkN.placeholder" = "Who (¿Quién?)";
+
+/* Class = "IBUILabel"; text = "Why:"; ObjectID = "jSQ-oR-GwW"; */
+"jSQ-oR-GwW.text" = "Why:";
+
+/* Class = "IBUILabel"; text = "5w + 2h"; ObjectID = "jdB-mh-dZr"; */
+"jdB-mh-dZr.text" = "5w + 2h";
+
+/* Class = "IBUIButton"; normalTitle = "Siguiente"; ObjectID = "jjS-36-xRe"; */
+"jjS-36-xRe.normalTitle" = "Siguiente";
+
+/* Class = "IBUILabel"; text = "50%"; ObjectID = "jno-jv-sYh"; */
+"jno-jv-sYh.text" = "50%";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "kDn-qE-T73"; */
+"kDn-qE-T73.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "kLl-rG-C58"; */
+"kLl-rG-C58.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUITextField"; placeholder = "Causa terciaria"; ObjectID = "kvd-Mk-QTE"; */
+"kvd-Mk-QTE.placeholder" = "Causa terciaria";
+
+/* Class = "IBUILabel"; text = "Why"; ObjectID = "l9Y-ec-vlC"; */
+"l9Y-ec-vlC.text" = "Why";
+
+/* Class = "IBUILabel"; text = "Histórico"; ObjectID = "lH8-6y-1vi"; */
+"lH8-6y-1vi.text" = "Histórico";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "lJE-Um-aHU"; */
+"lJE-Um-aHU.normalTitle" = "Guardar";
+
+/* Class = "IBUITextField"; placeholder = "Actividades a realizar"; ObjectID = "lRj-cI-vb3"; */
+"lRj-cI-vb3.placeholder" = "Actividades a realizar";
+
+/* Class = "IBUIButton"; normalTitle = "Regresar punto de origen"; ObjectID = "lZ2-bm-tYy"; */
+"lZ2-bm-tYy.normalTitle" = "Regresar punto de origen";
+
+/* Class = "IBUITextField"; placeholder = "Contraseña"; ObjectID = "lhz-Ko-Cik"; */
+"lhz-Ko-Cik.placeholder" = "Contraseña";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "lpv-P6-J0V"; */
+"lpv-P6-J0V.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "20%"; ObjectID = "lqb-5P-Grl"; */
+"lqb-5P-Grl.text" = "20%";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "mCT-mE-TeD"; */
+"mCT-mE-TeD.text" = "Cause Name";
+
+/* Class = "IBUILabel"; text = "Why"; ObjectID = "mV5-Wd-s0p"; */
+"mV5-Wd-s0p.text" = "Why";
+
+/* Class = "IBUILabel"; text = "Fecha realizado"; ObjectID = "mZh-tr-zGc"; */
+"mZh-tr-zGc.text" = "Fecha realizado";
+
+/* Class = "IBUILabel"; text = "dd/MM/yyyy HH:MM"; ObjectID = "mqB-CW-G6E"; */
+"mqB-CW-G6E.text" = "dd/MM/yyyy HH:MM";
+
+/* Class = "IBUILabel"; text = "Causa:"; ObjectID = "msd-BP-zN8"; */
+"msd-BP-zN8.text" = "Causa:";
+
+/* Class = "IBUILabel"; text = "Seleccione como desea medir sus causas principales (factores) del problema (Factores):"; ObjectID = "mu7-jz-gHD"; */
+"mu7-jz-gHD.text" = "Seleccione como desea medir sus causas principales (factores) del problema (Factores):";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "nOQ-kS-0iJ"; */
+"nOQ-kS-0iJ.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Fecha realizado inicio:"; ObjectID = "o5P-8z-y53"; */
+"o5P-8z-y53.text" = "Fecha realizado inicio:";
+
+/* Class = "IBUIBarButtonItem"; title = "Cancelar"; ObjectID = "o7c-E4-L8o"; */
+"o7c-E4-L8o.title" = "Cancelar";
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "o8Q-t2-bPy"; */
+"o8Q-t2-bPy.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUILabel"; text = "¿Por qué en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?"; ObjectID = "oIg-FW-rXI"; */
+"oIg-FW-rXI.text" = "¿Por qué en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "oMt-Xv-rP1"; */
+"oMt-Xv-rP1.title" = "Lean Works Group";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "oSm-gF-fJN"; */
+"oSm-gF-fJN.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Análisis de fallas"; ObjectID = "oby-mE-xJB"; */
+"oby-mE-xJB.text" = "Análisis de fallas";
+
+/* Class = "IBUILabel"; text = "Inicio"; ObjectID = "pLZ-Q3-7PH"; */
+"pLZ-Q3-7PH.text" = "Inicio";
+
+/* Class = "IBUILabel"; text = "Plan de acción gráfica"; ObjectID = "pOQ-4O-b5T"; */
+"pOQ-4O-b5T.text" = "Plan de acción gráfica";
+
+/* Class = "IBUILabel"; text = "Fecha realizado inicio:"; ObjectID = "pxM-qI-TD3"; */
+"pxM-qI-TD3.text" = "Fecha realizado inicio:";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Causa:"; ObjectID = "q7C-9X-xC3"; */
+"q7C-9X-xC3.headerTitle" = "Causa:";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "qDQ-wh-TY2"; */
+"qDQ-wh-TY2.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Document Generated"; ObjectID = "qQR-Pl-xWy"; */
+"qQR-Pl-xWy.text" = "Document Generated";
+
+/* Class = "IBUILabel"; text = "Análisis de fallas"; ObjectID = "qXb-qR-MPw"; */
+"qXb-qR-MPw.text" = "Análisis de fallas";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "r64-XW-6Zm"; */
+"r64-XW-6Zm.normalTitle" = "Guardar";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "rEs-PF-feE"; */
+"rEs-PF-feE.normalTitle" = "Guardar";
+
+/* Class = "IBUIButton"; normalTitle = "Profundizar Análisis"; ObjectID = "rHM-Pu-z96"; */
+"rHM-Pu-z96.normalTitle" = "Profundizar Análisis";
+
+/* Class = "IBUILabel"; text = "fin:"; ObjectID = "rJo-u8-P2u"; */
+"rJo-u8-P2u.text" = "fin:";
+
+/* Class = "IBUIButton"; normalTitle = "dd/mm/yyyy hh:mm"; ObjectID = "rKz-je-j2x"; */
+"rKz-je-j2x.normalTitle" = "dd/mm/yyyy hh:mm";
+
+/* Class = "IBUITextField"; placeholder = "Respuesta ..."; ObjectID = "rbd-Ha-Uc8"; */
+"rbd-Ha-Uc8.placeholder" = "Respuesta ...";
+
+/* Class = "IBUILabel"; text = "¿Cuáles considera las causas principales (factores) de su principal problema (Problem)?"; ObjectID = "rlU-XD-DBE"; */
+"rlU-XD-DBE.text" = "¿Cuáles considera las causas principales (factores) de su principal problema (Problem)?";
+
+/* Class = "IBUIButton"; normalTitle = "Gráfica Pareto"; ObjectID = "s6M-mJ-Tb6"; */
+"s6M-mJ-Tb6.normalTitle" = "Gráfica Pareto";
+
+/* Class = "IBUIButton"; normalTitle = "Regresar punto de origen"; ObjectID = "sRd-lj-iAb"; */
+"sRd-lj-iAb.normalTitle" = "Regresar punto de origen";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "sT1-L2-wUa"; */
+"sT1-L2-wUa.title" = "Lean Works Group";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "soE-0F-95o"; */
+"soE-0F-95o.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "stQ-tV-U0G"; */
+"stQ-tV-U0G.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "tAr-oa-way"; */
+"tAr-oa-way.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUITableViewSection"; headerTitle = "Clase:"; ObjectID = "tBo-Mc-hD0"; */
+"tBo-Mc-hD0.headerTitle" = "Clase:";
+
+/* Class = "IBUILabel"; text = "99%"; ObjectID = "tj5-pk-WuQ"; */
+"tj5-pk-WuQ.text" = "99%";
+
+/* Class = "IBUIButton"; normalTitle = "Seleccione una categoría"; ObjectID = "trp-PB-BQ8"; */
+"trp-PB-BQ8.normalTitle" = "Seleccione una categoría";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "u9Z-cW-mpT"; */
+"u9Z-cW-mpT.title" = "Lean Works Group";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "uhD-HP-F9j"; */
+"uhD-HP-F9j.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "v6e-vX-WMo"; */
+"v6e-vX-WMo.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUILabel"; text = "Documento a modificar:"; ObjectID = "vEl-I4-xuf"; */
+"vEl-I4-xuf.text" = "Documento a modificar:";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "vIt-28-n5P"; */
+"vIt-28-n5P.text" = "Cause Name";
+
+/* Class = "IBUILabel"; text = "Fecha Fin:"; ObjectID = "vhv-Jz-WOq"; */
+"vhv-Jz-WOq.text" = "Fecha Fin:";
+
+/* Class = "IBUILabel"; text = "0%"; ObjectID = "w9P-QD-x5K"; */
+"w9P-QD-x5K.text" = "0%";
+
+/* Class = "IBUINavigationItem"; title = "Lean Works Group"; ObjectID = "wBa-4O-Deh"; */
+"wBa-4O-Deh.title" = "Lean Works Group";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "wRs-eo-8uN"; */
+"wRs-eo-8uN.title" = "Atras";
+
+/* Class = "IBUIButton"; normalTitle = "Profundizar Análisis"; ObjectID = "wVq-gT-fdk"; */
+"wVq-gT-fdk.normalTitle" = "Profundizar Análisis";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "wby-lb-ZHG"; */
+"wby-lb-ZHG.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Desde la perspectiva de Colaboradores / Clientes ¿Por qué en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?"; ObjectID = "xBw-FW-eX2"; */
+"xBw-FW-eX2.text" = "Desde la perspectiva de Colaboradores / Clientes ¿Por qué en el departamento de ventas de la sucursal Culiacán durante el último trimestre del año tiene ventas bajas equivalentes a $1,000,000?";
+
+/* Class = "IBUILabel"; text = "Acción / contramedida"; ObjectID = "xbM-Sw-j7T"; */
+"xbM-Sw-j7T.text" = "Acción / contramedida";
+
+/* Class = "IBUIButton"; normalTitle = "Guardar"; ObjectID = "xkL-I1-s7S"; */
+"xkL-I1-s7S.normalTitle" = "Guardar";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "xq6-KR-SBo"; */
+"xq6-KR-SBo.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUIBarButtonItem"; title = "Atras"; ObjectID = "xtl-08-Rwa"; */
+"xtl-08-Rwa.title" = "Atras";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "y0I-tb-xXh"; */
+"y0I-tb-xXh.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Cause Name"; ObjectID = "yMi-DO-VG1"; */
+"yMi-DO-VG1.text" = "Cause Name";
+
+/* Class = "IBUILabel"; text = "Label-"; ObjectID = "yQg-tZ-JCI"; */
+"yQg-tZ-JCI.text" = "Label-";
+
+/* Class = "IBUILabel"; text = "Why"; ObjectID = "zFV-dc-X55"; */
+"zFV-dc-X55.text" = "Why";
+
+/* Class = "IBUILabel"; text = "Lean Works Group - 2014"; ObjectID = "zPg-Yg-93X"; */
+"zPg-Yg-93X.text" = "Lean Works Group - 2014";
+
+/* Class = "IBUIButton"; normalTitle = "Siguiente"; ObjectID = "zUL-r5-V6d"; */
+"zUL-r5-V6d.normalTitle" = "Siguiente";
+
+/* Class = "IBUILabel"; text = "Fecha plan fin:"; ObjectID = "zlL-2F-it3"; */
+"zlL-2F-it3.text" = "Fecha plan fin:";
+
+/* Class = "IBUITextField"; placeholder = "Causa secundaria"; ObjectID = "znt-6o-g8U"; */
+"znt-6o-g8U.placeholder" = "Causa secundaria";
+
+/* Class = "IBUILabel"; text = "Causa:"; ObjectID = "zo3-5s-Jns"; */
+"zo3-5s-Jns.text" = "Causa:";

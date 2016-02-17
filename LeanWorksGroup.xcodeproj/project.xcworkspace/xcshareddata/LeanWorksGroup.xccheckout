@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>905910EE-BD8E-49B0-91B8-AD4C6170E020</string>
+	<key>IDESourceControlProjectName</key>
+	<string>LeanWorksGroup</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>327863815F57C06750A1679AADC86369D73AA564</key>
+		<string>https://github.com/roketmx/LeanWorksGroup.git</string>
+		<key>98C8063C-6882-4C22-8D05-31287573AA3A</key>
+		<string>https://github.com/roketmx/LeanWorksGroup.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>LeanWorksGroup.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>327863815F57C06750A1679AADC86369D73AA564</key>
+		<string>../..</string>
+		<key>98C8063C-6882-4C22-8D05-31287573AA3A</key>
+		<string>../../../lean works</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/roketmx/LeanWorksGroup.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>327863815F57C06750A1679AADC86369D73AA564</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>98C8063C-6882-4C22-8D05-31287573AA3A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lean works</string>
+		</dict>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>327863815F57C06750A1679AADC86369D73AA564</string>
+			<key>IDESourceControlWCCName</key>
+			<string>lean%20works</string>
+		</dict>
+	</array>
+</dict>
+</plist>

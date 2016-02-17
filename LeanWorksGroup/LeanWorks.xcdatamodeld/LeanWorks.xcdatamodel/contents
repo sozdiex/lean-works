@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="3401" systemVersion="13C64" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="AnalisisFallas" representedClassName="AnalisisFallas" syncable="YES">
+        <attribute name="de_causa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_documentoGenerar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_documentoModificar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="fh_finPlan" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="fh_finRealizado" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="fh_inicioPlan" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="fh_inicioRealizado" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="id_analisis" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_ishikawa" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_problema" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nb_accion" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nb_actividadRealizar" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nb_responsable" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="CincoW" representedClassName="CincoW" syncable="YES">
+        <attribute name="de_como" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_cuando" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_cuanto" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_donde" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_porque" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_que" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_quien" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_problema" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Estatus" representedClassName="Estatus" syncable="YES">
+        <attribute name="estatus" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_estatus" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="mainProblem" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nombre_archivo" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Frecuencia" representedClassName="Frecuencia" syncable="YES">
+        <attribute name="id_frecuencia" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nb_frecuencia" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Ishikawa" representedClassName="Ishikawa" syncable="YES">
+        <attribute name="id_categoria" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_ishikawa" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_problema" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_rama" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_usuario" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="IshikawaDet" representedClassName="IshikawaDet" syncable="YES">
+        <attribute name="de_causa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_categoria" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_detalle" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_ishikawa" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_problema" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_rama" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nu_prioridad" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Pareto" representedClassName="Pareto" syncable="YES">
+        <attribute name="id_causa" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_problema" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nb_causa" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="nu_acumulado" optional="YES" attributeType="Double" defaultValueString="0" syncable="YES"/>
+        <attribute name="nu_frecuencia" optional="YES" attributeType="Double" defaultValueString="0" syncable="YES"/>
+        <attribute name="pj_acumulado" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+        <attribute name="pj_frecuencia" optional="YES" attributeType="Double" defaultValueString="0.0" syncable="YES"/>
+    </entity>
+    <entity name="Problemas" representedClassName="Problemas" syncable="YES">
+        <attribute name="fh_frecuenciaFin" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="fh_frecuenciaInicio" optional="YES" attributeType="Date" syncable="YES"/>
+        <attribute name="id_frecuencia" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_giro" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_problema" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_usuario" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nb_problema" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sn_unidad" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <entity name="Usuarios" representedClassName="Usuarios" syncable="YES">
+        <attribute name="cl_password" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="es_premiun" optional="YES" attributeType="Boolean" syncable="YES"/>
+        <attribute name="id_usuario" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="nb_usuario" optional="YES" attributeType="String" syncable="YES"/>
+    </entity>
+    <entity name="Why" representedClassName="Why" syncable="YES">
+        <attribute name="de_why1" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_why2" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_why3" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_why4" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="de_why5" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="id_categoria" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_causa" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_problema" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="id_why" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="AnalisisFallas" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="CincoW" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Estatus" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Frecuencia" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Ishikawa" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="IshikawaDet" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Pareto" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Problemas" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Usuarios" positionX="0" positionY="0" width="0" height="0"/>
+        <element name="Why" positionX="0" positionY="0" width="0" height="0"/>
+    </elements>
+</model>

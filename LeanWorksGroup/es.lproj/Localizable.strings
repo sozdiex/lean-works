@@ -1,0 +1,204 @@
+/* 
+  Localizable.strings
+  LeanWorksGroup
+
+  Created by Armando Trujillo Zazueta  on 06/06/14.
+  Copyright (c) 2014 Roket. All rights reserved.
+*/
+
+//inicio de seccion
+
+"usuario" = "Nombre de Usuario";
+"contra"= "Contraseña";
+"btnIniciarSesion" = "Iniciar sesión";
+"btnIngresarSinUsuario" = "Ingresar sin usuario";
+
+//Seleccione giro a resolver pantalla 1
+"SeleccioneGiro" = "Seleccione el giro a resolver:";
+"Manufactura" = "Manufactura";
+"Servicios" = "Servicios";
+"Transformacion" = "Transformación";
+"Educacion" = "Educacíon";
+"Personal" = "Personal";
+
+"ManufacturaMsg" = "Elaboración de productos.";
+"ServiciosMsg" = "Turismo, Comercio, IT, Gobiernos.";
+"TransformacionMsg" = "Convertir, Modificar";
+"EducacionMsg" = "Aprendizaje, Capacitación";
+"PersonalMsg" = "Pareja, Familia, etc.";
+
+//Main Problem view
+"lblQuestion" = "¿Cuál es el principal problema que se le presenta?";
+"txtField" = "Describa su principal problema";
+
+//Controles Generales
+"btnBack" = "Atrás";
+"btnSiguiente" = "Siguiente";
+"Cancelar" = "Cancelar";
+"Guardar" = "Guardar";
+"Aceptar" = "Aceptar";
+
+//Pareto View Controller
+"lblPareto" = "Seleccione como desea medir sus causas principales (factores)  del problema(%@):";
+"Unidades" = "Unidades / Piezas";
+"Pesos" = "Unidad monetaria / Divisas";
+
+//Pareto Frecuency View Controller
+"lblTituloParetoFrecuency" = "Determine el periodo durante el cual se observan las frecuencias de los factores de su principal problema";
+"Hora" = "Hora";
+"dia" = "Día";
+"Semana" = "Semana";
+"Quincena" = "Quincena";
+"Mes" = "Mes";
+"Bimestre" = "Bimestre";
+"Trimestre" = "Trimestre";
+"Cuatrimestre" = "Cuatrimestre";
+"Semestre" = "Semestre";
+"Anual" = "Anual";
+
+//Pareto Frecuency Date view Controller
+"Inicio" = "Inicio";
+"Termino" = "Termino"; //No debería ser "Término" ?
+
+//Pareto Diagram View Controller 
+
+"lblDiagram" = "¿Cuáles considera las causas principales (factores) de su problema (%@)?";
+"lblDiagram2" = "Enumerar 4 principales causas (factores) y en la opción de otros agrupar las causas menores";
+"txtDiagram1" = "Causa principal";
+"Factor" = "Factor";
+"Frecuencia" = "Frecuencia";
+"Acumulado" = "Acumulado";
+"Porcentaje" = "Porcentaje";
+"Grafica Pareto" = "Gráfica Pareto";
+"Agregar" = "Agregar";
+"Otros" = "Otros";
+"clase" = "Clase: %@";
+
+
+//Pareto Charts View Controller
+"Date Start" = "Fecha inicial:";
+"Date Finish" = "Fecha fin:";
+
+// 5w 2h View Controller
+"lblTitle5W2h2" = "Textualización del problema (Efecto)";
+"lblTitle5W2h" = "Completar las 5w + 2h para la causa principal";
+
+//Ishikawa View Controller
+"m1" = "Colaboradores / Clientes / Personas";
+"m2" = "Máquinas / Equipos";
+"m3" = "Método de Trabajo";
+"m4" = "Materiales";
+"m5" = "Medición";
+"m6" = "Medio Ambiente";
+
+
+//Ishikawa Category View Controller
+"lblIshikawaRespuesta" = "Respuesta";
+"btnRegresarPuntoOrigen" = "Regresar punto de origen";
+"btnProfundizar" = "Profundizar Análisis";
+
+//Factors View Controller
+"lblTitleFactor" = "Seleccione 5 causas potenciales principales más importantes (causas raices) que tienen incidencia significativa sobre el problema (%@):";
+
+//Order View Controller
+"lblTitleOrder" = "Acomode de mayor a menor importancia las causas principales potenciales (causas raices) que tienen incidencia significativa sobre el problema (%@):";
+"lblPrimero"="1ro";
+"lblSegundo"="2do";
+"lblTercero"="3ro";
+"lblCuarto"="4to";
+"lblQuinto"="5to";
+
+//Failure Detail View Controller
+"Causa Raíz: %@" = "Causa Raíz: %@";
+
+//Action Plan View Controller
+"lbl1" = "Causa:";
+"lbl2" = "Acción / Contramedida:";
+"lbl3" = "Actividad a realizar:";
+"lbl4" = "Responsable:";
+"lbl5" = "Documento a generar:";
+"lbl6" = "Documento a modificar:";
+"lblFecha1" = "Fecha plan inicio:";
+"lblFecha2" = "Fecha plan fin:";
+"lblFecha3" = "Fecha realizado inicio:";
+"lblFecha4" = "Fecha realizado fin:";
+"btn1" = "Seleccione una causa";
+
+"Actividad" = "Actividad";
+"Accion" = "Acción";
+"Responsable" = "Responsable";
+"S%d" = "S%d";
+
+//Mensajes
+"Es necesario seleccionar una causa" = "Es necesario seleccionar una causa";
+"Es necesario ingresar una Acción / contramedida" = "Es necesario ingresar una Acción / contramedida";
+"Es necesario ingresar una actividad" = "Es necesario ingresar una actividad";
+"Es necesario ingresar un responsable" ="Es necesario ingresar un responsable";
+"La fecha final del plan es menor que la fecha inicial" = "La fecha final del plan es menor que la fecha inicial";
+"La fecha final del la actividad realizada es menor que la fecha inicial" = "La fecha final del la actividad realizada es menor que la fecha inicial";
+"Debe de registar una actividad para continuar" = "Debe de registar una actividad para continuar";
+"Es necesario ingresar una Acción / contramedida" = "Es necesario ingresar una Acción / contramedida";
+"Es necesario ingresar una actividad" = "Es necesario ingresar una actividad";
+"Es necesario ingresar un responsable" = "Es necesario ingresar un responsable";
+"La fecha final del plan es menor que la fecha inicial" = "La fecha final del plan es menor que la fecha inicial";
+"La fecha final del la actividad realizada es menor que la fecha inicial" = "La fecha final del la actividad realizada es menor que la fecha inicial";
+"¿Desea editar el elemento?" = "¿Desea editar el elemento?";
+"Las contraseñas no coinciden" = "Las contraseñas no coinciden";
+"No hay conexión a Internet. Revisa tu conexión y vuelve a intentarlo." = "No hay conexión a Internet. Revisa tu conexión y vuelve a intentarlo.";
+"No se pudo conectar con el servidor, intente mas tarde" = "No se pudo conectar con el servidor, intente mas tarde";
+"se registro con exito el usuario: %@" = "Se registró con exito el usuario: %@";
+"Los campos marcados en rojo son obligatorios" = "Los campos marcados en rojo son obligatorios";
+"El correo electronico no es valido" = "El correo electrónico no es valido";
+"La frecuencia no es numérica" = "La frecuencia no es numérica";
+"Los Campos marcados (*) son obligatorios" = "Los Campos marcados (*) son obligatorios";
+"Es necesario agregar al menos 5 factores" = "Es necesario agregar al menos 5 factores";
+"Solo se permiten agregar 5 factores como máximo" = "Solo se permiten agregar 5 factores como máximo";
+"debe capturar un total de 20" = "ese neceario registrar al menos 20 causas, usted tiene %d";
+"No hay conexión a Internet. Revisa tu conexión y vuelve a intentarlo" = "No hay conexión a Internet. Revisa tu conexión y vuelve a intentarlo";
+"No se pudo conectar con el servidor, intente mas tarde" = "No se pudo conectar con el servidor, intente mas tarde";
+"Los campos marcados en rojo son obligatorios" = "Los campos marcados en rojo son obligatorios";
+"Ingrese la descripción de su problema" = "Ingrese la descripción de su problema";
+"Error al Graficar, usted no tiene 5 Paretos." = "Error al Graficar, usted no tiene 5 Paretos.";
+"Se guardo con exito, podra ver el flujo desde la seccion histórico." = "Se guardo con exito, podra ver el flujo desde la seccion histórico.";
+"Este flujo ya se encuentra guardado, si desea ver el flujo vaya a la seccion de histórico." = "Este flujo ya se encuentra guardado, si desea ver el flujo vaya a la seccion de histórico.";
+"Es necesario agregar 5 factores" = "Es necesario agregar 5 factores";
+"Es necesario agregar un factor" = "Es necesario agregar un factor";
+"Solo se permiten agregar 5 factores como máximo" = "Solo se permiten agregar 5 factores como máximo";
+"¿Desea editar el elemento?" = "¿Desea editar el elemento?";
+
+//Titulos Views
+"Grafica Pareto" = "Gráfica Pareto";
+"Analisis de fallas" = "Análisis de fallas";
+"Causas" = "Causas";
+"Seleccione la causa que desea en el análisis de fallas:" = "Seleccione la causa que desea en el análisis de fallas:";
+"Plan de accion grafica" = "Plan de acción gráfica";
+
+//20ishikawa
+"Desde la perspectiva %@ %@" = "Desde la perspectiva %@ %@";
+"¿Por qué  %@, %@, %@ y %@ %@" = "¿Por qué  %@, %@, %@ y %@ %@";
+"¿Por qué  %@, %@ y %@ %@" = "¿Por qué  %@, %@ y %@ %@";
+"¿Por qué  %@ y %@ %@" = "¿Por qué  %@ y %@ %@";
+"¿Por qué %@ %@" = "¿Por qué %@ %@";
+"¿Por qué %@" = "¿Por qué %@";
+"¿Por qué %@%@" = "¿Por qué %@%@";
+"¿Por qué %@ y %@" = "¿Por qué %@ y %@";
+"¿Por qué %@, %@" = "¿Por qué %@, %@";
+
+"Eliminar" = "Eliminar";
+"(No editable)" = "(No editable)";
+
+//Historico
+"problemas" = "Problemas";
+"ver problema" = "Ver problema";
+"Enviar por correo" = "Envuar por correo";
+"Historico" = "Histórico";
+"Jade lean - Analisis de fallas" = "Jade lean - Análisis de fallas";
+"se adjunta un pdf con el Analisis de fallas" = "se adjunta un pdf con el Análisis de fallas";
+"Actividades" = "Actividades";
+
+"Configure una cuenta en Mail para enviar correo electrónico." = "Configure una cuenta en Mail para enviar correo electrónico.";
+
+
+
+
+

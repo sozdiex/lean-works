@@ -1,0 +1,199 @@
+/* 
+  Localizable.strings
+  LeanWorksGroup
+
+  Created by Armando Trujillo Zazueta  on 06/06/14.
+  Copyright (c) 2014 Roket. All rights reserved.
+*/
+
+//inicio de seccion
+"usuario" = "User Name";
+"contra"= "Password";
+"btnIniciarSesion" = "Login";
+"btnIngresarSinUsuario" = "Login without user";
+"btnNewUser" = "New User";
+
+//Seleccione giro a resolver pantalla
+"SeleccioneGiro" = "Choose a kind of problem to solve:";
+"Manufactura" = "Manufacture";
+"Servicios" = "Services";
+"Transformacion" = "Transformation";
+"Educacion" = "Education";
+"Personal" = "Personal";
+
+"ManufacturaMsg" = "Product Development.";
+"ServiciosMsg" = "Tourism, Trade, IT, governments.";
+"TransformacionMsg" = "Convert, Edit";
+"EducacionMsg" = "Learning, Training";
+"PersonalMsg" = "Couple, Family, Etc.";
+
+//Main Problem view
+"lblQuestion" = "What is the main problem that is presented?";
+"txtField" = "Describe your main problem";
+
+//Controles Generales
+"btnBack" = "Back";
+"btnSiguiente" = "Next";
+"Cancelar" = "Cancel";
+"Guardar" = "Save";
+"Aceptar" = "Accept";
+
+//Pareto View Controller
+"lblPareto" = "How do you want to measure the main causes (factors) of your problem(%@):";
+"Unidades" = "Units / Pieces";
+"Pesos" = "Monetary unit / Currency";
+
+//Pareto Frecuency View Controller
+
+"lblTituloParetoFrecuency" = "Choose the period in which the frequencies of the main causes (factors) in the main problem observed"; //Cambiar "was" por where
+"Hora" = "Hour";
+"dia" = "Day";
+"Semana" = "Week";
+"Quincena" = "Fortnight";
+"Mes" = "Month";
+"Bimestre" = "Bimester";
+"Trimestre" = "Quarter";
+"Cuatrimestre" = "Four Month";
+"Semestre" = "Semester";
+"Anual" = "Annual";
+
+//Pareto Frecuency Date view Controller
+"Inicio" = "Start";
+"Termino" = "End";
+
+//Pareto Diagram View Controller
+
+"lblDiagram" = "Which main causes (factors) determine your main problem (%@)?";
+"lblDiagram2" = "List 4 main causes (factors). Then, group the small causes in the \"others\" option";
+"txtDiagram1" = "Main Cause";
+"Factor" = "Factor";
+"Frecuencia" = "Frequency";
+"Acumulado" = "Accumulated"; //cambiar por "Cumulative"
+"Porcentaje" = "Percentage";
+"Grafica Pareto" = "Pareto's Graph";
+"Agregar" = "Add";
+"Otros" = "Other";
+"clase" = "Class: %@";
+
+
+//Pareto Charts View Controller
+"Date Start" = "Start Date:";
+"Date Finish" = "End Date:";
+
+// 5w 2h View Controller
+"lblTitle5W2h2" = "Textualization of the problem (Effect)";
+"lblTitle5W2h" = "Complete 5w + 2h for the main cause";
+
+//Ishikawa View Controller
+"m1" = "Man / Partners / Clients / People";
+"m2" = "Machine / Equipment";
+"m3" = "Method";
+"m4" = "Materials";
+"m5" = "Measurement";
+"m6" = "Environment";
+
+//Ishikawa Category View Controller
+"lblIshikawaRespuesta" = "Answer";
+"btnRegresarPuntoOrigen" = "Return to point of origin";
+"btnProfundizar" = "Deeper analysis";
+
+//Factors View Controller
+"lblTitleFactor" = "Choose 5 most important main potential causes (root causes) that have higher impact on the  main problem (%@):";
+
+//Order View Controller
+"lblTitleOrder" = "Sort by relevance (from most to least important) the potential causes (root causes) that have more impact on the problem(%@):";
+"lblPrimero"="1st";
+"lblSegundo"="2nd";
+"lblTercero"="3rd";
+"lblCuarto"="4th";
+"lblQuinto"="5th";
+
+//Failure Detail View Controller
+"Causa Raíz: %@" = "Root cause: %@";
+
+//Action Plan View Controller
+"lbl1" = "Cause:";
+"lbl2" = "Action / Countermeasure:";
+"lbl3" = "Activity to do:";
+"lbl4" = "Responsible:";
+"lbl5" = "Document to be generated:";
+"lbl6" = "Document to be modified:";
+"lblFecha1" = "Plan start date:";
+"lblFecha2" = "Plan end date:";
+"lblFecha3" = "Actual Start Date:";
+"lblFecha4" = "Actual End Date:";
+"btn1" = "Select a cause";
+
+"Actividad" = "Activity";
+"Accion" = "Action";
+"Responsable" = "Person in charge";
+"S%d" = "W%d";
+
+//Mensajes
+"Es necesario seleccionar una causa" = "You need to choose a cause";
+"Es necesario ingresar una Acción / contramedida" = "You must type a Action / Countermeasure";
+"Es necesario ingresar una actividad" = "You need to type an activity";
+"Es necesario ingresar un responsable" ="You must enter a person in charge";
+"La fecha final del plan es menor que la fecha inicial" = "The end date of the plan is earlier than the start date";
+"La fecha final del la actividad realizada es menor que la fecha inicial" = "The end date of the activity is less than the start date"; "Debe de registar una actividad para continuar" = "You must register an activity to continue";
+"¿Desea editar el elemento?" = "Do you want to edit the item?";
+"Las contraseñas no coinciden" = "Passwords do not match";
+"No hay conexión a Internet. Revisa tu conexión y vuelve a intentarlo." = "No network connection. Check your connection and try again.";
+"No se pudo conectar con el servidor, intente mas tarde" = "Could not connect to server, try again later";
+"se registro con exito el usuario: %@" = "The user was saved successfully: %@";
+"Los campos marcados en rojo son obligatorios" = "Fields in red are required";
+"El correo electronico no es valido" = "The email address is not valid";
+"La frecuencia no es numérica" = "The frequency is not numeric";
+"Los Campos marcados (*) son obligatorios" = "The fields marked with (*) are required";
+"Es necesario agregar al menos 5 factores" = "You must add at least 5 factors ";
+"Solo se permiten agregar 5 factores como máximo" = "You can only five factors at most";
+"debe capturar un total de 20" = "You must enter a total of 20-%d";
+"No hay conexión a Internet. Revisa tu conexión y vuelve a intentarlo" = "No network connection. Check your connection and try again";
+"Ingrese la descripción de su problema" = "Type your problem's description";
+
+
+
+"Error al Graficar, usted no tiene 5 Paretos." = "Error while charting Pareto's Graph, you don't have five Pareto.";
+
+"Se guardo con exito, podra ver el flujo desde la seccion histórico." = "Successfully saved, You can see the flow detail in the historic section.";
+
+"Este flujo ya se encuentra guardado, si desea ver el flujo vaya a la seccion de histórico." = "This flow has been already saved. To view the flow, go to the  \"Historic\" section.";
+"Es necesario agregar 5 factores" = "You must add 5 factors ";
+"Es necesario agregar un factor" = "You must add a factor";
+
+
+//Titulos Views
+"Grafica Pareto" = "Pareto's Chart";
+"Analisis de fallas" = "Failure Analysis";
+"Causas" = "Causes";
+"Seleccione la causa que desea en el análisis de fallas:" = "Choose the cause you want in failure analysis:";
+"Plan de accion grafica" = "Action plan chart";
+
+//20ishikawa
+"Desde la perspectiva %@ %@" = "From the perspective %@ %@";
+"¿Por qué  %@, %@, %@ y %@ %@" = "¿Why  %@, %@, %@ and %@ %@";
+"¿Por qué  %@, %@ y %@ %@" = "¿Why  %@, %@ and %@ %@";
+"¿Por qué  %@ y %@ %@" = "¿Why  %@ and %@ %@";
+"¿Por qué %@ %@" = "¿Why %@ %@";
+"¿Por qué %@" = "¿Why %@";
+"¿Por qué %@%@" = "¿Why %@%@";
+"¿Por qué %@ y %@" = "¿Why %@ and %@";
+"¿Por qué %@, %@" = "¿Why %@, %@";
+
+"Eliminar" = "Delete";
+"(No editable)" = "(Uneditable)";
+
+//Historico
+"problemas" = "problems";
+"ver problema" = "Show problem";
+"Enviar por correo" = "Send Email";
+"Historico" = "Historical";
+"Jade lean - Analisis de fallas" = "Jade lean - Failure Analysis";
+"se adjunta un pdf con el Analisis de fallas" = "a pdf attached to Failure Analysis";
+"Actividades" = "Activities";
+
+"Configure una cuenta en Mail para enviar correo electrónico." = "Set up a Mail account to send email.";
+
+
+
+
